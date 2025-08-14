@@ -3,6 +3,8 @@
 ## Overview
 This DEMO is a **secure financial transaction processing** built in C# WinForms. It demonstrates how to handle sensitive transaction data by converting it to JSON, applying cryptographic security, and preparing it for safe storage or transmission.
 
+Go to Tools → NuGet Package Manager → Package Manager Console:
+Install-Package Newtonsoft.Json -Version 13.0.3
 ---
 
 ## Approach & Steps
