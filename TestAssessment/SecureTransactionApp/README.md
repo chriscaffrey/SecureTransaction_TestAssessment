@@ -1,4 +1,4 @@
-# Secure Transaction Processing
+# Secure Transaction Processing UI
 
 ## Overview
 This DEMO is a **secure financial transaction processing** built in C# WinForms. It demonstrates how to handle sensitive transaction data by converting it to JSON, applying cryptographic security, and preparing it for safe storage or transmission.
