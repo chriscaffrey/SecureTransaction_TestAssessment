@@ -37,7 +37,7 @@ Export-PfxCertificate `
 
 3) Usage in This App
 --------------------
-1. Place `TestCert.pfx` inside the project folder (e.g., `SecureTransactionApp_DataGrid\Certificates\`).
+1. Place `TestCert.pfx` inside the project folder (e.g., `SecureTransactionApp\Certificates\`).
 2. In the application, set:
 
    string pfxPath = @"Certificates\TestCert.pfx";
